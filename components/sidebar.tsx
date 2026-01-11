@@ -30,7 +30,7 @@ export default function Sidebar() {
           </h2>
 
           <p className="mt-6 max-w-sm text-sm leading-relaxed text-secondary">
-            I build accessible, pixel-perfect digital experiences for the web.
+            Test
           </p>
 
           <nav className="mt-16 flex flex-col gap-6 text-sm">

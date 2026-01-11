@@ -49,7 +49,7 @@ export default function Sidebar() {
         </div>
 
         {/* BOTTOM ICONS */}
-        <div className="flex items-center gap-8 text-secondary">
+        <div className="flex items-center gap-20 text-secondary">
           <a
             href="https://github.com"
             className="transition-colors duration-300 hover:text-accent"
